@@ -166,6 +166,7 @@ e utilizar as informações obtidas para geração de conhecimento (GARCIA, 2008
 FAYYAD, PIATETSKY-SHAPIRO e SMYTH, 1996).</p>
 
 Figura 1 - Processo KDD
+
 ![fig 1](https://user-images.githubusercontent.com/66424706/172254508-3a3e0f1e-6e3b-4f8b-97af-f34f831e2e16.png)
 
 
@@ -199,6 +200,7 @@ agrupá-los O algoritmo inicia com os centroides, ou seja, os centros dos cluste
 isso ele calcula as distâncias dos pontos e associa ao centro que aquele ponto estiver
 mais perto (AHMED, SERAJ e ISLAM, 2020).</p>
 Figura 2 - Exemplificação do K-means
+
 ![fig2](https://user-images.githubusercontent.com/66424706/172254594-492075b3-bc0d-430e-9e61-fd76014eb77a.png)
 
 
@@ -271,14 +273,17 @@ e correlações entre as bases de profissionais.</p>
 primeiras fases (Seleção, pré-processamento e transformação) da metodologia KDD.</p>
 <p>A Tabela profissionais antes da aplicação das três primeiras etapas:</p>
 Figura 3 -Tabela de resultado da pesquisa dos estudantes parte 1
+
 ![fig3](https://user-images.githubusercontent.com/66424706/172254778-5f021993-55ca-416a-8c8f-cdd91284acb3.png)
 
 
 Figura 4 - Tabela de resultado da pesquisa dos estudantes parte 2
+
 ![fig4](https://user-images.githubusercontent.com/66424706/172254792-cc1338aa-6df9-4df3-b2b9-3305ee4b3820.png)
 
 
 Figura 5 -Tabela de resultado da pesquisa dos estudantes parte 3
+
 ![fig5](https://user-images.githubusercontent.com/66424706/172254801-d4800bb3-68ca-4b56-ae1c-7335d1e1895d.png)
 
 
@@ -293,6 +298,7 @@ não utilizados. Os dados foram organizados em três tabelas diferentes, Informa
 Pessoais e escolares, Empregabilidade e Informações Adicionais.</p>
 <p>Primeira tabela, Informações pessoais e escolares:</p>
 Figura 7 - Informações pessoais e escolares parte 1
+
 ![fig7](https://user-images.githubusercontent.com/66424706/172254840-3d2c4b5e-05c1-41dc-a355-40dcc9cdc864.png)
 
 
@@ -306,7 +312,9 @@ ensino fundamental ao ensino médio em escola pública é de 12 anos, consideran
 antiga grade do ensino básico, segundo a Secretaria da Educação.</p>
 <p>Segunda tabela, informações de empregabilidade:<p>
 Figura 9 - Informações de empregabilidade parte 1
-![fig9](https://user-images.githubusercontent.com/66424706/172254886-de56b1c4-3239-4af6-9178-2a20fb5c6391.png)
+  
+ ![fig9](https://user-images.githubusercontent.com/66424706/172255167-0a07a5bd-5725-46ca-9570-6f5ab787296d.png)
+
 
   
   
@@ -320,6 +328,7 @@ Figura 9 - Informações de empregabilidade parte 1
 + en Mais que 4 anos sendo classificado como “5”
 <p>Terceira tabela, informações adicionais:</p>
 Figura 10 - Informações adicionais parte 1
+
 ![fig10](https://user-images.githubusercontent.com/66424706/172254959-080e9448-139b-4eb2-863a-039aa97ed98a.png)
 
 
