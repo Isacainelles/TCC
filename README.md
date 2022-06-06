@@ -164,6 +164,7 @@ SMITH, 1996).</p>
 etapas, mas especificamente, analisar os resultados da mineração dos dados, interpretar
 e utilizar as informações obtidas para geração de conhecimento (GARCIA, 2008,
 FAYYAD, PIATETSKY-SHAPIRO e SMYTH, 1996).</p>
+<img src="[url](https://www.google.com/url?sa=i&url=http%3A%2F%2Fqnimate.com%2Funderstanding-html-img-tag%2F&psig=AOvVaw3iAzy6GeANwHvjYva2Jveb&ust=1654625316254000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCOCoweW1mfgCFQAAAAAdAAAAABAD)"  width=60 height=40>
 Figura 1 - Processo KDD
 
 #### 2.1.5 Data Mining
